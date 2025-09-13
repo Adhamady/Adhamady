@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adham Mady and I'm a Robotics engineer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Adham Mady and I'm a Robotics Engineer from Egypt</h2>
 
 ###
 
