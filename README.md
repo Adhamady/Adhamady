@@ -1,57 +1,77 @@
-## Hi I'm Adham Mady 👋 
-Engineering student from Egypt, who is very passionate about Robotics, drives, PCB designing, Embedded systems!
-- 🔭 I’m currently working on a BLDC 4 quadrants motor controller 
-- 🌱 I’m currently learning Model based design
-- 💬 Ask me about Robotics
+<h2 align="left">Hi 👋! My name is Adham Mady and I'm a Robotics engineer from Egypt</h2>
 
-## :speech_balloon: Connect with me: 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/adham-mady-47066b24b/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="mailto:adhammadyamr@gmail.com">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adhamady&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamady&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="bash logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="opencv logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="pytorch logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="raspberrypi logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/adhammady" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-## :hammer_and_wrench: Languages and Tools :
-<div>
-<a href="https://www.learn-c.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://www.learn-cpp.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://www.learncs.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>    
-  <a href="https://www.learnpython.org/">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
-    <img alt="CSS" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50">
-    </picture>&nbsp;
-  </a> 
- <a href="https://docs.arduino.cc/learn/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://matlabacademy.mathworks.com/">
-    <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="CSS" width="50" height="50"/>&nbsp;
-  </a> 
-  <a href="https://matlabacademy.mathworks.com/#simulink">
-    <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Simulink_Logo_%28non-wordmark%29.png/150px-Simulink_Logo_%28non-wordmark%29.png">&nbsp;
-  </a> 
-  <a href="https://docs.openmv.io/openmvcam/tutorial/index.html">
-    <img width=50px src="https://global.discourse-cdn.com/standard17/uploads/openmv1/original/2X/7/7e5a87ef6230e6a31bf4c5eb1cf2d1b9a56a2f7e.png">&nbsp;
-  </a> 
-  <a href="https://www.w3schools.com/git/">
-    <img width=50px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">&nbsp;
-  </a> 
-  <a href="https://cyberbotics.com/doc/guide/tutorials">
-    <img width=50px src="https://cyberbotics.com/assets/images/webots.png">&nbsp;
-   </a> 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/adhamady/adhamady/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-
-   
-</div>
+###
