@@ -1,0 +1,26 @@
+name: Generate GitHub Metrics
+
+on:
+  # Runs once a day
+  schedule:
+    - cron: "0 0 * * *"
+  # Also run when you push changes
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub username
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Adhamady
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Cairo
