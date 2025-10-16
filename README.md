@@ -1,6 +1,5 @@
 # Hi 👋! My name is Adham Mady  
 ### 🤖 Robotics Engineer from Egypt 🇪🇬  
-
 ---
 
 ### 🚀 About Me  
