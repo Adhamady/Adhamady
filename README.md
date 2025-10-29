@@ -1,8 +1,8 @@
-# Hi 👋! My name is Adham Mady  
-### 🤖 Robotics Engineer from Egypt 🇪🇬  
+# Hi 👋! My name is Adham Mady
+### 🤖 Robotics Engineer from Egypt 🇪🇬
 ---
 
-### 🚀 About Me  
+### 🚀 About Me
 I'm a passionate **Robotics Engineer** with a strong background in **embedded systems, control theory, and AI-driven robotics**.  
 I enjoy building intelligent robots, designing real-time embedded architectures, and teaching programming to young innovators at **INNOVA STEM EDU**.  
 I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.the-pythons.com/), one of Egypt’s most accomplished student robotics teams.
@@ -10,16 +10,22 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhamady&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamady&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adhamady&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamady&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" />
+
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamady&theme=dark&hide_border=false" height="150" />
 </div>
 
 ---
 
-### 🏆 Awards & Achievements  
+### 🏆 Awards & Achievements
 
-#### 🐍 **The Pythons Robotics Team** – Founding Member  
+#### 🐍 **The Pythons Robotics Team** – Founding Member
 🌍 [Visit our official website](https://www.the-pythons.com/)
 
 - 🥇 **RoboCup Junior Egypt 2023 (Coach)**  
@@ -33,13 +39,13 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
 
 ---
 
-### 🤖 My Robots in Action  
-🎥 [Watch Robot 1 on YouTube](https://youtu.be/PmGN0taP7g4)  
-🎥 [Watch Robot 2 on YouTube](https://youtu.be/dFQNPVYAjzY)
+### 🤖 My Robots in Action
+🎥 [Watch Robot 1](https://youtu.be/PmGN0taP7g4)  
+🎥 [Watch Robot 2](https://youtu.be/dFQNPVYAjzY)
 
 ---
 
-### 💻 Tech Stack  
+### 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" />
@@ -61,7 +67,7 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me
 <div align="left">
   <a href="https://www.youtube.com/@YourChannel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
@@ -75,6 +81,15 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
   <a href="https://www.linkedin.com/in/adhammady" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
+</div>
+
+---
+
+<div align="center">
+
+### Visitor Counter
+<img src="https://komarev.com/ghpvc/?username=adhamady&style=for-the-badge&color=blue" />
+
 </div>
 
 ---
