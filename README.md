@@ -12,7 +12,7 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adhamady&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamady&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Ishiba&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Adhamady&theme=dark&hide_border=false)<br/>
 </div>
 
 ---
