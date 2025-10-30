@@ -28,13 +28,15 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
 #### 🐍 **The Pythons Robotics Team** – Founding Member
 🌍 [Visit our official website](https://www.the-pythons.com/)
 
-- 🥇 **RoboCup Junior Egypt 2023 (Coach)**  
-  *1st Place in Rescue Maze – Qualified for the World Finals in Bordeaux, France 🇫🇷*
-- 🥈 **RoboCup Junior Egypt 2024 (Coach)**  
+- 🥉 **Mate ROV Egypt 2023 (Coach)**  
+  *3rd Place in Rangers category 
+- 🥈 **RoboCup Junior Egypt 2023 (Coach)**  
   *2nd Place in Open-Weight Soccer – Qualified for the RoboCup European Open in Hannover, Germany 🇩🇪*
-- 🥇 **RoboCup Junior Egypt 2024 (Coach)**  
+- 🥇 **RoboCup Junior Egypt 2023 (Coach)**  
   *1st Place in Rescue Line Open SuperTeam, 2nd in Normal Ranking – Qualified for RoboCup European Open 🇩🇪*
-- 🥉 **RoboChallenge Egypt 2022 (Coach)**  
+- 🥇 **RoboCup Junior Egypt 2022 (Coach)**  
+  *1st Place in Rescue Maze – Qualified for the World Finals in Bordeaux, France 🇫🇷*
+- 🥉 **RoboChallenge Egypt 2021 (Coach)**  
   *3rd Place in Line Follower Category*
 
 ---
