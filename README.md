@@ -65,6 +65,7 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" />
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/julia.png" height="35" />
 </div>
 
 ---
