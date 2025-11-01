@@ -129,10 +129,10 @@ I'm also a **Founding Member** of [**The Pythons Robotics Team**](https://www.th
   <a href="https://discord.gg/YourInviteCode" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:adham.mady@gmail.com" target="_blank">
+  <a href="mailto:adhammadyamr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/adhammady" target="_blank">
+  <a href="https://www.linkedin.com/in/adhammady/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
